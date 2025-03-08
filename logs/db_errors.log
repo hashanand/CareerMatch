@@ -1,0 +1,77 @@
+[08-Mar-2025 20:33:00 Europe/Berlin] Database connection error: Unknown database 'career_match'
+[08-Mar-2025 20:33:11 Europe/Berlin] Database connection error: Unknown database 'career_match'
+[08-Mar-2025 20:35:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'saved_at' in 'order clause' in C:\xampp\htdocs\hack\saved-jobs.php:13
+Stack trace:
+#0 C:\xampp\htdocs\hack\saved-jobs.php(13): mysqli->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hack\saved-jobs.php on line 13
+[08-Mar-2025 20:35:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'saved_at' in 'order clause' in C:\xampp\htdocs\hack\saved-jobs.php:13
+Stack trace:
+#0 C:\xampp\htdocs\hack\saved-jobs.php(13): mysqli->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hack\saved-jobs.php on line 13
+[08-Mar-2025 20:35:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'saved_at' in 'order clause' in C:\xampp\htdocs\hack\saved-jobs.php:13
+Stack trace:
+#0 C:\xampp\htdocs\hack\saved-jobs.php(13): mysqli->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hack\saved-jobs.php on line 13
+[08-Mar-2025 20:35:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'saved_at' in 'order clause' in C:\xampp\htdocs\hack\saved-jobs.php:13
+Stack trace:
+#0 C:\xampp\htdocs\hack\saved-jobs.php(13): mysqli->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hack\saved-jobs.php on line 13
+[08-Mar-2025 20:50:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'saved_at' in 'order clause' in C:\xampp\htdocs\hack\saved-jobs.php:13
+Stack trace:
+#0 C:\xampp\htdocs\hack\saved-jobs.php(13): mysqli->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hack\saved-jobs.php on line 13
+[08-Mar-2025 20:50:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'saved_at' in 'order clause' in C:\xampp\htdocs\hack\saved-jobs.php:13
+Stack trace:
+#0 C:\xampp\htdocs\hack\saved-jobs.php(13): mysqli->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hack\saved-jobs.php on line 13
+[08-Mar-2025 20:51:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'saved_at' in 'order clause' in C:\xampp\htdocs\hack\saved-jobs.php:13
+Stack trace:
+#0 C:\xampp\htdocs\hack\saved-jobs.php(13): mysqli->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hack\saved-jobs.php on line 13
+[08-Mar-2025 22:03:49 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in C:\xampp\htdocs\hack\includes\session_manager.php on line 5
+[08-Mar-2025 22:03:49 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in C:\xampp\htdocs\hack\includes\session_manager.php on line 6
+[08-Mar-2025 22:03:49 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in C:\xampp\htdocs\hack\includes\session_manager.php on line 7
+[08-Mar-2025 22:03:49 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\hack\includes\session_manager.php on line 8
+[08-Mar-2025 22:04:55 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in C:\xampp\htdocs\hack\includes\session_manager.php on line 5
+[08-Mar-2025 22:04:55 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in C:\xampp\htdocs\hack\includes\session_manager.php on line 6
+[08-Mar-2025 22:04:55 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in C:\xampp\htdocs\hack\includes\session_manager.php on line 7
+[08-Mar-2025 22:04:55 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\hack\includes\session_manager.php on line 8
+[08-Mar-2025 22:49:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password_hash' in 'field list' in C:\xampp\htdocs\hack\includes\db_config.php:163
+Stack trace:
+#0 C:\xampp\htdocs\hack\includes\db_config.php(163): mysqli->prepare('SELECT user_id,...')
+#1 C:\xampp\htdocs\hack\includes\db_config.php(116): prepareAndExecute('SELECT user_id,...', 's', Array)
+#2 C:\xampp\htdocs\hack\login.php(43): getRow('SELECT user_id,...', Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\hack\includes\db_config.php on line 163
+[08-Mar-2025 22:51:00 Europe/Berlin] Registration error: Unknown column 'password_hash' in 'field list'
+[08-Mar-2025 22:52:33 Europe/Berlin] Database connection error: Unknown column 'password_hash' in 'field list'
+[08-Mar-2025 22:52:57 Europe/Berlin] Database connection error: Unknown column 'password_hash' in 'field list'
+[08-Mar-2025 22:54:57 Europe/Berlin] Database connection error: Unknown column 'password_hash' in 'field list'
+[08-Mar-2025 22:55:01 Europe/Berlin] Database connection error: Unknown column 'password_hash' in 'field list'
+[08-Mar-2025 23:08:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\hack\job-details.php:47
+Stack trace:
+#0 C:\xampp\htdocs\hack\job-details.php(47): mysqli->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hack\job-details.php on line 47
+[08-Mar-2025 23:09:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'saved_at' in 'order clause' in C:\xampp\htdocs\hack\saved-jobs.php:13
+Stack trace:
+#0 C:\xampp\htdocs\hack\saved-jobs.php(13): mysqli->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hack\saved-jobs.php on line 13
+[08-Mar-2025 23:09:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\hack\job-details.php:47
+Stack trace:
+#0 C:\xampp\htdocs\hack\job-details.php(47): mysqli->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hack\job-details.php on line 47
+[08-Mar-2025 23:10:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\hack\job-details.php:47
+Stack trace:
+#0 C:\xampp\htdocs\hack\job-details.php(47): mysqli->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hack\job-details.php on line 47

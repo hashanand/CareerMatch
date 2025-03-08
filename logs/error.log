@@ -1,0 +1,10 @@
+[08-Mar-2025 22:03:49 Europe/Berlin] PHP Warning:  Constant DB_HOST already defined in C:\xampp\htdocs\hack\includes\db_connect.php on line 3
+[08-Mar-2025 22:03:49 Europe/Berlin] PHP Warning:  Constant DB_USER already defined in C:\xampp\htdocs\hack\includes\db_connect.php on line 4
+[08-Mar-2025 22:03:49 Europe/Berlin] PHP Warning:  Constant DB_PASS already defined in C:\xampp\htdocs\hack\includes\db_connect.php on line 5
+[08-Mar-2025 22:03:49 Europe/Berlin] PHP Warning:  Constant DB_NAME already defined in C:\xampp\htdocs\hack\includes\db_connect.php on line 6
+[08-Mar-2025 22:03:49 Europe/Berlin] PHP Warning:  Constant DB_CHARSET already defined in C:\xampp\htdocs\hack\includes\db_connect.php on line 7
+[08-Mar-2025 22:04:55 Europe/Berlin] PHP Warning:  Constant DB_HOST already defined in C:\xampp\htdocs\hack\includes\db_connect.php on line 3
+[08-Mar-2025 22:04:55 Europe/Berlin] PHP Warning:  Constant DB_USER already defined in C:\xampp\htdocs\hack\includes\db_connect.php on line 4
+[08-Mar-2025 22:04:55 Europe/Berlin] PHP Warning:  Constant DB_PASS already defined in C:\xampp\htdocs\hack\includes\db_connect.php on line 5
+[08-Mar-2025 22:04:55 Europe/Berlin] PHP Warning:  Constant DB_NAME already defined in C:\xampp\htdocs\hack\includes\db_connect.php on line 6
+[08-Mar-2025 22:04:55 Europe/Berlin] PHP Warning:  Constant DB_CHARSET already defined in C:\xampp\htdocs\hack\includes\db_connect.php on line 7

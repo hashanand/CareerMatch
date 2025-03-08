@@ -1,0 +1,7 @@
+# No external dependencies required - using Python standard library 
+pdfplumber>=0.7.0 
+pandas==1.5.3
+numpy==1.24.3
+scikit-learn==1.2.2
+joblib==1.2.0
+SQLite3==2.6.0 

@@ -1,0 +1,8 @@
+{
+    "require": {
+        "smalot/pdfparser": "^2.7",
+        "phpoffice/phpword": "^1.1",
+        "google/cloud-vision": "^1.7",
+        "ext-curl": "*"
+    }
+} 
