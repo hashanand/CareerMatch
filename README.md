@@ -80,4 +80,4 @@ Contributions are welcome! If you'd like to improve this project:
 
 
 ---
-Developed for the hackathon **HackJKLU v4.0** - **CareerMatch** 🚀
+**CareerMatch** 🚀
